@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_qa/
+
+Sitemap: https://russlanyes.github.io/island-pest-control/sitemap.xml
